@@ -20,7 +20,3 @@ monitoring: [Grafana, Prometheus, Sentry]
 
 - 📧 suhinin@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/sukhinin)
-
----
-
-🔍 _See pinned repositories below for key samples of my backend development work_.
